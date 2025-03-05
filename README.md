@@ -43,7 +43,7 @@
       <h1 class="title">WELCOME TO MY PORTFOLIO </h1>
       <a href="file:///C:/Users/NI6500404/OneDrive%20-%20Surbana%20Jurong%20Private%20Limited/Desktop/html%20-%20Copy/Home.html"><b>HOME</b></a>
       <a href="file:///C:/Users/NI6500404/OneDrive%20-%20Surbana%20Jurong%20Private%20Limited/Desktop/html%20-%20Copy/My%20background.html"><b> MY BACKGROUND</b></a>
-      <a href="Civil Engineering Notes.html"><b> CIVIL ENGINEERING NOTES</b></a>
+      <a href="file:///C:/Users/NI6500404/OneDrive%20-%20Surbana%20Jurong%20Private%20Limited/Desktop/html%20-%20Copy/Civil%20Engineering%20Notes.html"><b> CIVIL ENGINEERING NOTES</b></a>
 	<a href="Others.html"><b> OTHERS</b></a>
       <a href="Downloads.html"><b> DOWNLOADS</b></a>
 	<a href="images.html"><b> IMAGES</b></a>
