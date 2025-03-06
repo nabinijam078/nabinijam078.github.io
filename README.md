@@ -62,7 +62,7 @@
     <a href="Contacts.html"><b>CONTACTS</b></a>
     
     <div class="content">
-      <img src="unnamed.jpg" alt="Nabin Kumar Ijam">
+      <img src=""C:\Users\NI6500404\OneDrive - Surbana Jurong Private Limited\Desktop\html - Copy\unnamed.jpg"" alt="Nabin Kumar Ijam">
       <p>This is my personal website. In this website, you can know my personal information, my work and some Civil Engineering information.</p>
       <p>I am <b>Nabin Kumar Ijam</b>. I am from Nepal and currently working in Malaysia. I am professionally a Civil Engineer. I am mainly specialized in Structural Engineering and Hydropower Engineering. My specialization are in structural design of hydraulic structures, buildings and steel structures. I have deep knowledge on Concrete design based on Indian Standard, British Standard, Euro codes and ACI.</p>
       <p>I have graduated from <b>Saitama University</b>, Japan in 2017, 8 years after the completion of Bachelor of Civil Engineering from Tribhuvan University, Institute of Engineering, Pulchowk Campus, Pulchowk, Nepal. During these 8 years, I have completed one hydropower project when I worked in Sanima Hydropower.</p>
